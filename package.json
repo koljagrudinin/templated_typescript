@@ -1,0 +1,28 @@
+{
+  "name": "templated_typescript",
+  "version": "1.0.0",
+  "description": "wrapped typescript js functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koljagrudinin/templated_typescript.git"
+  },
+  "keywords": [
+    "npm",
+    "typescript",
+    "javascript"
+  ],
+  "author": "koljagrudinin@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koljagrudinin/templated_typescript/issues"
+  },
+  "homepage": "https://github.com/koljagrudinin/templated_typescript#readme",
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "typescript": "^2.6.2"
+  }
+}
